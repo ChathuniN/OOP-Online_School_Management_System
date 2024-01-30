@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/commons-fileupload-1.4.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="build/web/WEB-INF/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="lib/commons-fileupload-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="lib/javaee-endorsed-api-7.0/javaee-doc-api.jar"/>
+	<classpathentry kind="lib" path="lib/javaee-endorsed-api-7.0/javax.annotation-api.jar"/>
+	<classpathentry kind="lib" path="lib/javaee-endorsed-api-7.0/javax.xml.soap-api.jar"/>
+	<classpathentry kind="lib" path="lib/javaee-endorsed-api-7.0/jaxb-api-osgi.jar"/>
+	<classpathentry kind="lib" path="lib/javaee-endorsed-api-7.0/jaxws-api.jar"/>
+	<classpathentry kind="lib" path="lib/javaee-endorsed-api-7.0/jsr181-api.jar"/>
+	<classpathentry kind="lib" path="lib/MySQLDriver/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="lib/upload/commons-fileupload-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/upload/commons-io-2.6.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="output" path="build/web/WEB-INF/classes"/>
+</classpath>
